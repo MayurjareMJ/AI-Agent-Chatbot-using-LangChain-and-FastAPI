@@ -1,0 +1,6 @@
+pydantic
+typing
+langchain_groq
+langchain_openai
+langgraph
+langchain_community.tools.tavily_search
